@@ -11,3 +11,5 @@
 	echo test();
 	
 	echo "___";
+	
+	echo "2";
